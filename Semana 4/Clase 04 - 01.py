@@ -17,4 +17,11 @@ print(type(cantidad_alumnos))
 print(type(media_edad))
 
 print(type(cantidad_alumnos) is int)
+#le preguntamos a la máquina si cantidad de alumnos es entero (si es)
 print(type(media_edad) is int)
+#le preguntamos a la máquina si media edad es entero (no es)
+
+#una función es de alguna manera un algoritmo
+#un algoritmo recibe una entrada, produce una salida
+#realiza una serie de pasos ordenados y finitos y resuelve un problema
+
