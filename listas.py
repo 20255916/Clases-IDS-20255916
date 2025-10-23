@@ -25,4 +25,4 @@ r_a= r_a + nombres[3].lower().count("a")
 int(r_a)
 
 #int(nombres.index("Ana, 
- 
+ #ya es paja
