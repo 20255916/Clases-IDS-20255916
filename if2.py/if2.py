@@ -1,4 +1,4 @@
-monto= float(input("Digite el monto: "))
+"""monto= float(input("Digite el monto: "))
 tipo= input("Tipo (local/internacional): ")
 
 if tipo.lower()== "local": 
@@ -20,7 +20,7 @@ elif tipo.lower()== "internacional":
 else:
     print("esetipo no existe")
 print(f"El tipo{tipo} con monto {monto:,.2f}")
-print(f"paga un impuesto de {monto*impuesto:,.2f}")
+print(f"paga un impuesto de {monto*impuesto:,.2f}")"""
 
 
     
