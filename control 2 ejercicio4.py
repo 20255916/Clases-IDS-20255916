@@ -1,0 +1,2 @@
+correo= str(input())
+
